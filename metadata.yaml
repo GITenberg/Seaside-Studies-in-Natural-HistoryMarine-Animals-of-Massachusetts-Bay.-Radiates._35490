@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '37709'
     url: http://www.gutenberg.org/2009/agents/37709
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35490#Seaside-Studies-in-Natural-HistoryMarine-Animals-of-Massachusetts-Bay.-Radiates.
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild
